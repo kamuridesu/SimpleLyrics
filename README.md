@@ -1,6 +1,8 @@
-# Setup
+# SimpleLyrics
+Simple CLI app to retrieve songs lyrics
+
+## Setup
 `pip install SimpleLyrics`
 
-# Usage
+## Usage
 `pylyrics song name`
-
